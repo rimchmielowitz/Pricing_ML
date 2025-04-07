@@ -37,6 +37,8 @@ All required packages will be installed automatically, and example data is alrea
 
 ## 📊 ML vs. Randomized Approach
 
+
+
 The bar chart below compares total driving distances using the **ML-based method** vs. the **randomized method** across different SPL-DMD levels (driver-to-order ratios). Each scenario contains 10 orders.
 
 ![image](https://github.com/user-attachments/assets/56f8d9da-be96-4a7f-a53c-1052ace08ac7)
